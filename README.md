@@ -2,12 +2,9 @@
 
 ## This is the seventh homework assignment for Lede Program 2025.
 
-### It's four Jupyter notebooks: 
+### It's three Jupyter notebooks: 
 
-1. Scraping a Wikipedia list of presidents
-2. Scraping the front page of Le Monde for article metadata (this one was probably the trickiest)
-3. Scraping a list of third-party drivers license locations in Arizona
-4. Scraping search results of cases in the US Bankruptcy Court of the Western District of Tennessee
+1. 
 
 This assignment was meant to get us familiar with popular methods to scrape websites, parse data, and manipulate it.
 
