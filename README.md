@@ -4,7 +4,10 @@
 
 ### It's three Jupyter notebooks: 
 
-1. 
+1. Retrieving Wikipedia Presidential data
+2. Scraping the Le Monde front page (the most challenging)
+3. Scraping an Arizona state website on third-party drivers license locations
+4. Seaching a West Tennessee bankruptcy court database of cases
 
 This assignment was meant to get us familiar with popular methods to scrape websites, parse data, and manipulate it.
 
